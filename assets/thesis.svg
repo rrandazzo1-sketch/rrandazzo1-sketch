@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Tesi sperimentale: Measuring Digital Performance in the Self-Adhesive Label Industry — clicca per scaricare il PDF">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101626"/>
+      <stop offset="1" stop-color="#1A1333"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1 0;0 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1000" height="330" rx="24"/></clipPath>
+    <clipPath id="btn"><rect x="330" y="252" width="270" height="48" rx="24"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+  </defs>
+  <style>
+    .f { font-family: 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .tag   { font-size: 13px; font-weight: 700; letter-spacing: 3px; fill: #22D3EE; }
+    .title { font-size: 30px; font-weight: 800; fill: #F8FAFC; letter-spacing: -.5px; }
+    .sub   { font-size: 17px; font-weight: 500; fill: #A5B4FC; }
+    .chip  { font-size: 13px; font-weight: 600; fill: #E2E8F0; }
+    .btnt  { font-size: 17px; font-weight: 700; fill: #FFFFFF; }
+    .in { opacity: 0; animation: in .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    .c1 { animation-delay: .6s } .c2 { animation-delay: .8s } .c3 { animation-delay: 1s } .c4 { animation-delay: 1.2s }
+    .float { animation: float 4s ease-in-out infinite }
+    @keyframes float { 50% { transform: translateY(-8px) } }
+    .line  { stroke-dasharray: 120; stroke-dashoffset: 120; animation: write 3.2s ease-in-out infinite }
+    .l2 { animation-delay: .3s } .l3 { animation-delay: .6s } .l4 { animation-delay: .9s } .l5 { animation-delay: 1.2s }
+    @keyframes write { 0% { stroke-dashoffset: 120 } 45%, 80% { stroke-dashoffset: 0 } 100% { stroke-dashoffset: -120 } }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 3.2s ease-in-out infinite }
+    .g2 { animation-delay: .2s } .g3 { animation-delay: .4s }
+    @keyframes grow { 0%, 100% { transform: scaleY(.3) } 50% { transform: scaleY(1) } }
+    .sheen { animation: sheen 2.8s ease-in-out infinite }
+    @keyframes sheen { 0% { transform: translateX(-300px) } 60%, 100% { transform: translateX(320px) } }
+    .arrow { animation: bounce 1.4s ease-in-out infinite }
+    @keyframes bounce { 50% { transform: translateY(4px) } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="330" fill="url(#bg)"/>
+    <circle cx="140" cy="300" r="140" fill="#8B5CF6" opacity=".35" filter="url(#blur)"/>
+    <circle cx="950" cy="20" r="120" fill="#06B6D4" opacity=".3" filter="url(#blur)"/>
+
+    <!-- documento animato -->
+    <g class="float">
+      <rect x="78" y="62" width="170" height="215" rx="14" fill="#1E293B" stroke="#334155"/>
+      <rect x="64" y="50" width="170" height="215" rx="14" fill="#0F172A" stroke="url(#accent)" stroke-width="2"/>
+      <rect x="64" y="50" width="170" height="40" rx="14" fill="url(#accent)" opacity=".9"/>
+      <text x="149" y="76" text-anchor="middle" class="f" font-size="13" font-weight="800" fill="#0B0F1A" letter-spacing="2">THESIS · PDF</text>
+      <g stroke="#94A3B8" stroke-width="5" stroke-linecap="round">
+        <line class="line"    x1="84" y1="112" x2="204" y2="112"/>
+        <line class="line l2" x1="84" y1="130" x2="184" y2="130"/>
+        <line class="line l3" x1="84" y1="148" x2="200" y2="148"/>
+        <line class="line l4" x1="84" y1="166" x2="164" y2="166"/>
+      </g>
+      <!-- mini grafico KPI -->
+      <rect x="84"  y="196" width="22" height="50" rx="4" fill="#8B5CF6" class="bar"/>
+      <rect x="114" y="196" width="22" height="50" rx="4" fill="#A78BFA" class="bar g2"/>
+      <rect x="144" y="196" width="22" height="50" rx="4" fill="#22D3EE" class="bar g3"/>
+      <rect x="174" y="196" width="22" height="50" rx="4" fill="#06B6D4" class="bar"/>
+    </g>
+
+    <text x="330" y="62"  class="f tag in">TESI SPERIMENTALE · LM-77 · A.A. 2024–2025</text>
+    <text x="330" y="104" class="f title in">Measuring Digital Performance</text>
+    <text x="330" y="140" class="f title in">in the Self-Adhesive Label Industry</text>
+    <text x="330" y="172" class="f sub in">The Auroflex S.r.l. case — una Digital Balanced Scorecard</text>
+
+    <g class="f chip">
+      <g class="in c1"><rect x="330" y="194" width="110" height="34" rx="17" fill="#8B5CF6" fill-opacity=".18" stroke="#8B5CF6" stroke-opacity=".6"/><text x="385" y="216" text-anchor="middle">💰 Financial</text></g>
+      <g class="in c2"><rect x="450" y="194" width="112" height="34" rx="17" fill="#EC4899" fill-opacity=".16" stroke="#EC4899" stroke-opacity=".6"/><text x="506" y="216" text-anchor="middle">🤝 Customer</text></g>
+      <g class="in c3"><rect x="572" y="194" width="170" height="34" rx="17" fill="#06B6D4" fill-opacity=".16" stroke="#06B6D4" stroke-opacity=".6"/><text x="657" y="216" text-anchor="middle">⚙️ Internal Processes</text></g>
+      <g class="in c4"><rect x="752" y="194" width="168" height="34" rx="17" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".6"/><text x="836" y="216" text-anchor="middle">🌱 Learning &amp; Growth</text></g>
+    </g>
+
+    <!-- pulsante -->
+    <g>
+      <rect x="330" y="252" width="270" height="48" rx="24" fill="url(#accent)"/>
+      <g clip-path="url(#btn)"><rect class="sheen" x="330" y="252" width="90" height="48" fill="url(#sheen)"/></g>
+      <g class="arrow" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M362 266v14M355 274l7 7 7-7"/><path d="M354 287h16"/>
+      </g>
+      <text x="384" y="282" class="f btnt">Scarica la tesi (PDF)</text>
+    </g>
+    <text x="620" y="282" class="f" font-size="14" fill="#94A3B8">clicca la scheda ↗</text>
+  </g>
+  <rect x="1" y="1" width="998" height="328" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+</svg>

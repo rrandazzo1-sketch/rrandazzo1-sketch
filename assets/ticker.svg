@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="Competenze: Prompt Engineering, LLM Automation, Marketing Analytics, Budgeting, Shopify, MySQL, DBeaver, Postman, Excel, PMO, Balanced Scorecard, Data Governance">
+  <defs>
+    <linearGradient id="fadeL" x1="0" x2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fadeR" x1="0" x2="1"><stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <clipPath id="c"><rect width="1000" height="56" rx="28"/></clipPath>
+    <g id="set" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+      <rect x="0"    y="10" width="160" height="36" rx="18" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="80"   y="33" fill="#DDD6FE">🧠 Prompt Engineering</text>
+      <rect x="172"  y="10" width="150" height="36" rx="18" fill="#06B6D4" fill-opacity=".14" stroke="#06B6D4" stroke-opacity=".5"/><text x="247"  y="33" fill="#A5F3FC">🤖 LLM Automation</text>
+      <rect x="334"  y="10" width="170" height="36" rx="18" fill="#EC4899" fill-opacity=".14" stroke="#EC4899" stroke-opacity=".5"/><text x="419"  y="33" fill="#FBCFE8">📈 Marketing Analytics</text>
+      <rect x="516"  y="10" width="120" height="36" rx="18" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/><text x="576"  y="33" fill="#A7F3D0">💶 Budgeting</text>
+      <rect x="648"  y="10" width="110" height="36" rx="18" fill="#7AB55C" fill-opacity=".16" stroke="#7AB55C" stroke-opacity=".6"/><text x="703"  y="33" fill="#D9F99D">🛒 Shopify</text>
+      <rect x="770"  y="10" width="100" height="36" rx="18" fill="#3B82F6" fill-opacity=".14" stroke="#3B82F6" stroke-opacity=".5"/><text x="820"  y="33" fill="#BFDBFE">🗄️ MySQL</text>
+      <rect x="882"  y="10" width="110" height="36" rx="18" fill="#A16207" fill-opacity=".18" stroke="#CA8A04" stroke-opacity=".5"/><text x="937"  y="33" fill="#FDE68A">🦫 DBeaver</text>
+      <rect x="1004" y="10" width="110" height="36" rx="18" fill="#F97316" fill-opacity=".14" stroke="#F97316" stroke-opacity=".5"/><text x="1059" y="33" fill="#FED7AA">🚀 Postman</text>
+      <rect x="1126" y="10" width="100" height="36" rx="18" fill="#22C55E" fill-opacity=".14" stroke="#22C55E" stroke-opacity=".5"/><text x="1176" y="33" fill="#BBF7D0">📊 Excel</text>
+      <rect x="1238" y="10" width="90"  height="36" rx="18" fill="#8B5CF6" fill-opacity=".16" stroke="#8B5CF6" stroke-opacity=".5"/><text x="1283" y="33" fill="#DDD6FE">🗂️ PMO</text>
+      <rect x="1340" y="10" width="180" height="36" rx="18" fill="#06B6D4" fill-opacity=".14" stroke="#06B6D4" stroke-opacity=".5"/><text x="1430" y="33" fill="#A5F3FC">🎯 Balanced Scorecard</text>
+      <rect x="1532" y="10" width="150" height="36" rx="18" fill="#EC4899" fill-opacity=".14" stroke="#EC4899" stroke-opacity=".5"/><text x="1607" y="33" fill="#FBCFE8">🔐 Data Governance</text>
+    </g>
+  </defs>
+  <style>.m { animation: m 32s linear infinite } @keyframes m { to { transform: translateX(-1694px) } }</style>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="56" fill="#0D1117"/>
+    <g class="m">
+      <use href="#set"/>
+      <use href="#set" x="1694"/>
+    </g>
+    <rect width="90" height="56" fill="url(#fadeL)"/>
+    <rect x="910" width="90" height="56" fill="url(#fadeR)"/>
+  </g>
+</svg>
