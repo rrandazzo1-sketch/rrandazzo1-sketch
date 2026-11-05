@@ -26,10 +26,14 @@ class Riccardo:
     base         = "Italia 🇮🇹"
     formazione   = "Laurea Magistrale in Economia e Management (LM-77) · LUMSA"
     superpotere  = "far parlare la strategia aziendale con la tecnologia"
-    lingue       = {"Italiano": "madrelingua", "Inglese": "B2", "Francese": "B1", "Spagnolo": "scolastico"}
+    lingue       = {
+        "Italiano": "madrelingua", "Inglese": "B2",
+        "Francese": "B1",          "Spagnolo": "scolastico",
+    }
 
     def missione(self):
-        return "Processi più snelli, tempi più corti, giornate più leggere per tutto il team."
+        return ("Processi più snelli, tempi più corti, "
+                "giornate più leggere per tutto il team.")
 ```
 
 Ho un **profilo ibrido**: solide basi gestionali e finanziarie unite a competenze tecniche nel digitale.
