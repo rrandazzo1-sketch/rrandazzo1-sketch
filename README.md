@@ -1,6 +1,6 @@
 <!-- ════════════════════════════  HERO  ════════════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/hero.svg" width="100%" alt="Riccardo Randazzo — Project Manager, Marketing Analyst, AI Implementation"/>
+  <img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/hero.svg" width="100%" alt="Riccardo Randazzo — Project Manager, Marketing Analyst, AI Implementation"/>
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
   <a href="mailto:r.randazzo1@lumsastud.it"><img src="https://img.shields.io/badge/Scrivimi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="#-tesi-sperimentale"><img src="https://img.shields.io/badge/La%20mia%20tesi-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Tesi"/></a>
   <a href="#-cosa-dicono-di-me"><img src="https://img.shields.io/badge/Referenze-EC4899?style=for-the-badge&logo=starship&logoColor=white" alt="Referenze"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rrandazzo1-sletch&color=1F2937&style=for-the-badge&label=VISITE" alt="Visite al profilo"/>
+  <img src="https://komarev.com/ghpvc/?username=rrandazzo1-sketch&color=1F2937&style=for-the-badge&label=VISITE" alt="Visite al profilo"/>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 👋 Chi sono
 
@@ -53,19 +53,19 @@ Prendo un processo aziendale, ne capisco il **perché**, e lo trasformo in uno s
 </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 🎓 Tesi sperimentale
 
 <p align="center">
-  <a href="https://github.com/rrandazzo1-sletch/rrandazzo1-sletch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf">
-    <img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/thesis.svg" width="100%" alt="Tesi: Measuring Digital Performance in the Self-Adhesive Label Industry — clicca per scaricare il PDF"/>
+  <a href="https://github.com/rrandazzo1-sketch/rrandazzo1-sketch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf">
+    <img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/thesis.svg" width="100%" alt="Tesi: Measuring Digital Performance in the Self-Adhesive Label Industry — clicca per scaricare il PDF"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rrandazzo1-sletch/rrandazzo1-sletch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/⬇%20Scarica%20PDF-8B5CF6?style=for-the-badge" alt="Scarica PDF"/></a>
-  <a href="https://github.com/rrandazzo1-sletch/rrandazzo1-sletch/blob/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/👁%20Leggi%20online-1F2937?style=for-the-badge" alt="Leggi online"/></a>
+  <a href="https://github.com/rrandazzo1-sketch/rrandazzo1-sketch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/⬇%20Scarica%20PDF-8B5CF6?style=for-the-badge" alt="Scarica PDF"/></a>
+  <a href="https://github.com/rrandazzo1-sketch/rrandazzo1-sketch/blob/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/👁%20Leggi%20online-1F2937?style=for-the-badge" alt="Leggi online"/></a>
   <img src="https://img.shields.io/badge/Lingua-English-06B6D4?style=for-the-badge" alt="Lingua inglese"/>
 </p>
 
@@ -89,14 +89,14 @@ Partendo dal caso **Auroflex S.r.l.** (settore delle etichette autoadesive), la 
 <summary><b>🧭 Guarda lo schema della Digital Balanced Scorecard</b> (clicca)</summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/bsc.svg" width="100%" alt="Schema animato della Digital Balanced Scorecard"/>
+  <img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/bsc.svg" width="100%" alt="Schema animato della Digital Balanced Scorecard"/>
 </p>
 </details>
 
 <sub>Relatrice: Prof.ssa Francesca Costanza · Correlatrice: Prof.ssa Letizia Lo Presti · Cattedra di Sistemi di misurazione della performance · Università LUMSA.<br>
 © Riccardo Randazzo — tutti i diritti riservati. Citazioni consentite indicando l'autore.</sub>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 🧭 Scegli il tuo percorso
 
@@ -150,12 +150,12 @@ Partendo dal caso **Auroflex S.r.l.** (settore delle etichette autoadesive), la 
 </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/ticker.svg" width="100%" alt="Competenze in movimento"/>
+  <img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/ticker.svg" width="100%" alt="Competenze in movimento"/>
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@ Partendo dal caso **Auroflex S.r.l.** (settore delle etichette autoadesive), la 
 | SQL, API testing, integrazioni | PMO e coordinamento | Comunicazione tra reparti |
 | E-commerce Shopify | Performance measurement (BSC) | Affidabilità |
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 🚀 Esperienza
 
@@ -217,7 +217,7 @@ timeline
 - **Diploma di maturità linguistica**
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 💬 Cosa dicono di me
 
@@ -247,7 +247,7 @@ timeline
 La lettera completa è disponibile su richiesta. 📩
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 📂 Progetti
 
@@ -260,7 +260,7 @@ KPI finanziari e digitali integrati per una PMI manifatturiera B2B.
 
 `Balanced Scorecard` `KPI` `Analisi di bilancio`
 
-📄 *[Scarica la tesi](https://github.com/rrandazzo1-sletch/rrandazzo1-sletch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf)*
+📄 *[Scarica la tesi](https://github.com/rrandazzo1-sketch/rrandazzo1-sketch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf)*
 
 </td>
 <td width="33%" valign="top">
@@ -286,7 +286,7 @@ App desktop per giocatori FPS con computer vision on-device.
 </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 🎲 Quiz lampo
 
@@ -311,28 +311,28 @@ App desktop per giocatori FPS con computer vision on-device.
 Tutto! Capire *come* funziona la tecnologia mi aiuta a capire *cosa* può fare per un'azienda. 💡
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 ## 📊 Attività su GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rrandazzo1-sletch&show_icons=true&theme=tokyonight&hide_border=true&locale=it" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=rrandazzo1-sletch&theme=tokyonight&hide_border=true&locale=it" alt="GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rrandazzo1-sketch&show_icons=true&theme=tokyonight&hide_border=true&locale=it" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=rrandazzo1-sketch&theme=tokyonight&hide_border=true&locale=it" alt="GitHub streak"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/output/github-contribution-grid-snake.svg" alt="Snake che mangia i contributi"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/output/github-contribution-grid-snake.svg" alt="Snake che mangia i contributi"/>
   </picture>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sletch/rrandazzo1-sletch/main/assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rrandazzo1-sketch/rrandazzo1-sketch/main/assets/divider.svg" width="100%"/></p>
 
 <p align="center">
   <b>Hai un processo che ti fa perdere tempo? Parliamone.</b><br><br>
   <a href="mailto:r.randazzo1@lumsastud.it?subject=Ciao%20Riccardo"><img src="https://img.shields.io/badge/📩%20Scrivimi-8B5CF6?style=for-the-badge" alt="Scrivimi"/></a>
-  <a href="https://github.com/rrandazzo1-sletch/rrandazzo1-sletch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/🎓%20Scarica%20la%20tesi-06B6D4?style=for-the-badge" alt="Scarica la tesi"/></a>
+  <a href="https://github.com/rrandazzo1-sketch/rrandazzo1-sketch/raw/main/tesi/Riccardo_Randazzo_Tesi_Digital_BSC.pdf"><img src="https://img.shields.io/badge/🎓%20Scarica%20la%20tesi-06B6D4?style=for-the-badge" alt="Scarica la tesi"/></a>
 </p>
 
 <p align="center">
